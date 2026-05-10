@@ -80,7 +80,3 @@
     <td><img src="https://github.com/user-attachments/assets/ff2e3fd4-b110-4b43-b5d5-cc421652d4e7" width="250"/></td>
   </tr>
 </table>
-
-<p align="center">
-  <i></i>
-</p>
