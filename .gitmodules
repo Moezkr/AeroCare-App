@@ -1,0 +1,6 @@
+[submodule "lib/services"]
+	path = lib/services
+	url = ./lib/services
+[submodule "lib/providers"]
+	path = lib/providers
+	url = ./lib/providers
